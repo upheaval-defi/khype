@@ -9,8 +9,9 @@
  * -------------
  * 1. Dynamically discovers all pools containing K-HYPE token
  * 2. Fetches position snapshots from the last 7 days for these pools
- * 3. Groups and displays detailed position data by pool and user
- * 4. Shows liquidity changes, token deposits, withdrawals, and fee collections
+ * 3. Filters data for specific high-activity users (configurable)
+ * 4. Groups and displays detailed position data by pool and user
+ * 5. Shows liquidity changes, token deposits, withdrawals, and fee collections
  * 
  * K-HYPE TOKEN:
  * ------------
@@ -47,16 +48,55 @@
  * - Unique Positions: [Count]
  * - Pools Covered: [Count]
  * 
+ * POSITION-BASED GROUPING:
+ * ------------------------
+ * After the main output, displays transactions grouped by Position ID:
+ * 
+ * 🎯 Position ID: [Position ID]
+ *    Owner: [User Address]
+ *    Pool: [Token0Name]/[Token1Name] ([Pool ID])
+ *    Activity: [Number] snapshots
+ *    Current Liquidity: [Amount]
+ *    Peak Liquidity: [Max Amount]
+ * 
+ *    📈 TOTALS ACROSS ALL ACTIVITY:
+ *       Total Deposited Token0: [Amount] [Token Name]
+ *       Total Deposited Token1: [Amount] [Token Name]
+ *       Total Withdrawn Token0: [Amount] [Token Name]
+ *       Total Withdrawn Token1: [Amount] [Token Name]
+ *       Total Fees Token0: [Amount] [Token Name]
+ *       Total Fees Token1: [Amount] [Token Name]
+ * 
+ *    💰 NET POSITION:
+ *       Net Token0: [Deposits - Withdrawals] [Token Name]
+ *       Net Token1: [Deposits - Withdrawals] [Token Name]
+ * 
+ *    📅 ACTIVITY TIMELINE ([Count] significant events):
+ *       1. [Timestamp] (Block [Number])
+ *          💵 Deposited: [Amounts]
+ *          💸 Withdrawn: [Amounts]  
+ *          💰 Fees: [Amounts]
+ * 
  * USAGE:
  * ------
  * Run directly: `node fetch-khype-positions.js`
  * Or import as module and use exported functions
+ * 
+ * USER FILTERING:
+ * ---------------
+ * By default, filters data for specific high-activity users:
+ * - 0x06253f963c242f3ac57201ff8298d7e5df3e8c4c
+ * - 0x43395c11f8f81db0cee08dedd2d45c377a955387
+ * 
+ * To modify the filter, update the FILTER_USERS array.
+ * To show all users, set FILTER_USERS to an empty array [].
  * 
  * TECHNICAL DETAILS:
  * -----------------
  * - Queries Upheaval Finance subgraph GraphQL endpoint
  * - Filters for last 7 days using timestamp >= (current_time - 7 days)
  * - Returns up to 1000 position snapshots ordered by timestamp (descending)
+ * - Client-side filtering by user addresses for focused analysis
  * - All token amounts are formatted in human-readable decimal format
  * - Positions are grouped by pool and user for organized display
  * 
@@ -66,6 +106,12 @@
 
 const KHYPE_TOKEN_ID = '0xfd739d4e423301ce9385c1fb8850539d657c296d';
 const SUBGRAPH_URL = 'https://api.upheaval.fi/subgraphs/name/upheaval/exchange-v3';
+
+// Filter for specific users with high activity
+const FILTER_USERS = [
+  '0x06253f963c242f3ac57201ff8298d7e5df3e8c4c',
+  '0x43395c11f8f81db0cee08dedd2d45c377a955387'
+];
 
 // GraphQL query to fetch all pools and filter for K-HYPE
 const ALL_POOLS_QUERY = `
@@ -233,16 +279,23 @@ function formatTokenAmount(amount) {
 }
 
 function displayPositionSnapshots(snapshots) {
+  // Filter snapshots for specific users
+  const filteredSnapshots = snapshots.filter(snapshot => 
+    FILTER_USERS.includes(snapshot.owner.toLowerCase())
+  );
+
   console.log('\n=== K-HYPE POSITION SNAPSHOTS (Last 7 Days) ===');
+  console.log(`Filtering for specific users: ${FILTER_USERS.join(', ')}`);
+  console.log(`Filtered to ${filteredSnapshots.length} snapshots from ${snapshots.length} total\n`);
   
-  if (snapshots.length === 0) {
-    console.log('No position snapshots found for K-HYPE pools in the last 7 days');
+  if (filteredSnapshots.length === 0) {
+    console.log('No position snapshots found for the filtered users in K-HYPE pools');
     return;
   }
 
-  // Group snapshots by pool for better organization
+  // Group filtered snapshots by pool for better organization
   const snapshotsByPool = {};
-  snapshots.forEach(snapshot => {
+  filteredSnapshots.forEach(snapshot => {
     const poolId = snapshot.pool.id;
     if (!snapshotsByPool[poolId]) {
       snapshotsByPool[poolId] = [];
@@ -290,15 +343,135 @@ function displayPositionSnapshots(snapshots) {
     });
   });
 
-  // Summary statistics
-  const totalUsers = new Set(snapshots.map(s => s.owner)).size;
-  const totalPositions = new Set(snapshots.map(s => s.position?.id).filter(Boolean)).size;
+  // Summary statistics for filtered data
+  const totalUsers = new Set(filteredSnapshots.map(s => s.owner)).size;
+  const totalPositions = new Set(filteredSnapshots.map(s => s.position?.id).filter(Boolean)).size;
   
-  console.log(`\n📊 SUMMARY:`);
-  console.log(`   Total Snapshots: ${snapshots.length}`);
+  console.log(`\n📊 SUMMARY (Filtered):`);
+  console.log(`   Total Snapshots: ${filteredSnapshots.length}`);
   console.log(`   Unique Users: ${totalUsers}`);
   console.log(`   Unique Positions: ${totalPositions}`);
   console.log(`   Pools Covered: ${Object.keys(snapshotsByPool).length}`);
+  
+  // Position-based grouping for filtered data
+  displayPositionTransactions(filteredSnapshots);
+}
+
+function displayPositionTransactions(snapshots) {
+  console.log(`\n\n🏷️  === TRANSACTIONS BY POSITION ID ===`);
+  
+  // Group snapshots by position ID
+  const snapshotsByPosition = {};
+  snapshots.forEach(snapshot => {
+    const positionId = snapshot.position?.id;
+    if (positionId) {
+      if (!snapshotsByPosition[positionId]) {
+        snapshotsByPosition[positionId] = [];
+      }
+      snapshotsByPosition[positionId].push(snapshot);
+    }
+  });
+
+  if (Object.keys(snapshotsByPosition).length === 0) {
+    console.log('No positions found with valid position IDs');
+    return;
+  }
+
+  // Sort positions by total activity (number of snapshots)
+  const sortedPositions = Object.entries(snapshotsByPosition)
+    .sort(([, a], [, b]) => b.length - a.length);
+
+  sortedPositions.forEach(([positionId, positionSnapshots]) => {
+    const firstSnapshot = positionSnapshots[0];
+    const pool = firstSnapshot.pool;
+    const owner = firstSnapshot.owner;
+    
+    // Calculate totals across all snapshots for this position
+    let totalDeposited0 = 0;
+    let totalDeposited1 = 0;
+    let totalWithdrawn0 = 0;
+    let totalWithdrawn1 = 0;
+    let totalFees0 = 0;
+    let totalFees1 = 0;
+    let maxLiquidity = 0;
+    let currentLiquidity = 0;
+    
+    positionSnapshots.forEach(snapshot => {
+      totalDeposited0 += parseFloat(snapshot.depositedToken0 || 0);
+      totalDeposited1 += parseFloat(snapshot.depositedToken1 || 0);
+      totalWithdrawn0 += parseFloat(snapshot.withdrawnToken0 || 0);
+      totalWithdrawn1 += parseFloat(snapshot.withdrawnToken1 || 0);
+      totalFees0 += parseFloat(snapshot.collectedFeesToken0 || 0);
+      totalFees1 += parseFloat(snapshot.collectedFeesToken1 || 0);
+      
+      const liquidity = parseFloat(snapshot.liquidity || 0);
+      if (liquidity > maxLiquidity) {
+        maxLiquidity = liquidity;
+      }
+      
+      // Most recent snapshot (they're sorted by timestamp desc)
+      if (snapshot === positionSnapshots[0]) {
+        currentLiquidity = liquidity;
+      }
+    });
+
+    console.log(`\n🎯 Position ID: ${positionId}`);
+    console.log(`   Owner: ${owner}`);
+    console.log(`   Pool: ${pool.token0.name}/${pool.token1.name} (${pool.id})`);
+    console.log(`   Activity: ${positionSnapshots.length} snapshots`);
+    console.log(`   Current Liquidity: ${currentLiquidity}`);
+    console.log(`   Peak Liquidity: ${maxLiquidity}`);
+    
+    console.log(`\n   📈 TOTALS ACROSS ALL ACTIVITY:`);
+    console.log(`      Total Deposited Token0: ${formatTokenAmount(totalDeposited0.toString())} ${pool.token0.name}`);
+    console.log(`      Total Deposited Token1: ${formatTokenAmount(totalDeposited1.toString())} ${pool.token1.name}`);
+    console.log(`      Total Withdrawn Token0: ${formatTokenAmount(totalWithdrawn0.toString())} ${pool.token0.name}`);
+    console.log(`      Total Withdrawn Token1: ${formatTokenAmount(totalWithdrawn1.toString())} ${pool.token1.name}`);
+    console.log(`      Total Fees Token0: ${formatTokenAmount(totalFees0.toString())} ${pool.token0.name}`);
+    console.log(`      Total Fees Token1: ${formatTokenAmount(totalFees1.toString())} ${pool.token1.name}`);
+    
+    // Net position (deposits - withdrawals)
+    const netToken0 = totalDeposited0 - totalWithdrawn0;
+    const netToken1 = totalDeposited1 - totalWithdrawn1;
+    console.log(`\n   💰 NET POSITION:`);
+    console.log(`      Net Token0: ${formatTokenAmount(netToken0.toString())} ${pool.token0.name}`);
+    console.log(`      Net Token1: ${formatTokenAmount(netToken1.toString())} ${pool.token1.name}`);
+    
+    // Show timeline of major changes (only snapshots with significant activity)
+    const significantSnapshots = positionSnapshots.filter(snapshot => {
+      const hasDeposits = parseFloat(snapshot.depositedToken0 || 0) > 0 || parseFloat(snapshot.depositedToken1 || 0) > 0;
+      const hasWithdrawals = parseFloat(snapshot.withdrawnToken0 || 0) > 0 || parseFloat(snapshot.withdrawnToken1 || 0) > 0;
+      const hasFees = parseFloat(snapshot.collectedFeesToken0 || 0) > 0 || parseFloat(snapshot.collectedFeesToken1 || 0) > 0;
+      return hasDeposits || hasWithdrawals || hasFees;
+    });
+    
+    if (significantSnapshots.length > 0) {
+      console.log(`\n   📅 ACTIVITY TIMELINE (${significantSnapshots.length} significant events):`);
+      significantSnapshots.slice(0, 5).forEach((snapshot, index) => { // Show max 5 events
+        const date = new Date(parseInt(snapshot.timestamp) * 1000);
+        console.log(`      ${index + 1}. ${date.toISOString()} (Block ${snapshot.blockNumber})`);
+        
+        if (parseFloat(snapshot.depositedToken0 || 0) > 0 || parseFloat(snapshot.depositedToken1 || 0) > 0) {
+          console.log(`         💵 Deposited: ${formatTokenAmount(snapshot.depositedToken0)} ${pool.token0.name}, ${formatTokenAmount(snapshot.depositedToken1)} ${pool.token1.name}`);
+        }
+        if (parseFloat(snapshot.withdrawnToken0 || 0) > 0 || parseFloat(snapshot.withdrawnToken1 || 0) > 0) {
+          console.log(`         💸 Withdrawn: ${formatTokenAmount(snapshot.withdrawnToken0)} ${pool.token0.name}, ${formatTokenAmount(snapshot.withdrawnToken1)} ${pool.token1.name}`);
+        }
+        if (parseFloat(snapshot.collectedFeesToken0 || 0) > 0 || parseFloat(snapshot.collectedFeesToken1 || 0) > 0) {
+          console.log(`         💰 Fees: ${formatTokenAmount(snapshot.collectedFeesToken0)} ${pool.token0.name}, ${formatTokenAmount(snapshot.collectedFeesToken1)} ${pool.token1.name}`);
+        }
+      });
+      
+      if (significantSnapshots.length > 5) {
+        console.log(`      ... and ${significantSnapshots.length - 5} more events`);
+      }
+    }
+  });
+
+  console.log(`\n📊 POSITION SUMMARY:`);
+  console.log(`   Total Unique Positions: ${sortedPositions.length}`);
+  console.log(`   Most Active Position: ${sortedPositions[0][0]} (${sortedPositions[0][1].length} snapshots)`);
+  console.log(`   Average Activity per Position: ${(snapshots.filter(s => s.position?.id).length / sortedPositions.length).toFixed(1)} snapshots`);
 }
 
 // Main execution
