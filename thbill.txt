@@ -1,0 +1,2861 @@
+
+🔍 FETCHING DATA FOR POOL: 0xc06e0fea115e54c54125dfe2f0509d5be55e4005
+
+Fetching pool information for 0xc06e0fea115e54c54125dfe2f0509d5be55e4005...
+Fetching current positions for pool 0xc06e0fea115e54c54125dfe2f0509d5be55e4005...
+Fetching position snapshots for pool 0xc06e0fea115e54c54125dfe2f0509d5be55e4005...
+Time range: Last 7 days (since 2025-09-04T09:02:06.000Z)
+Found 67 current positions with liquidity > 0
+Found 200 position snapshots
+
+=== POOL INFORMATION ===
+Pool ID: 0xc06e0fea115e54c54125dfe2f0509d5be55e4005
+Token0: USD₮0 (USD₮0) - 0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb
+Token1: thBILL (thBILL) - 0xfdd22ce6d1f66bc0ec89b20bf16ccb6670f55a5a
+Fee Tier: 100
+Current Liquidity: 2210476365876618
+Current Tick: -50
+Total Value Locked USD: $5502008.41
+Volume USD: $4671893.89
+Transaction Count: 783
+
+=== CURRENT POSITIONS (Active Liquidity) ===
+
+👤 Owner: 0xaf7fd67ae6b3e25f83291d5600fbe3b776eea4d3 (1 positions)
+
+  📍 Position 1:
+     Position ID: 3326
+     Liquidity: 1176233664384010
+     Tick Range: -90 to -27
+     Deposited USD₮0: 1352153.098171
+     Deposited thBILL: 2347183.107868
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 68.862571
+     Collected Fees thBILL: 68.862571
+
+👤 Owner: 0x3efd5cdb46c700481f40058341aa220ac2552660 (1 positions)
+
+  📍 Position 1:
+     Position ID: 4618
+     Liquidity: 305168239873335
+     Tick Range: -41 to -3
+     Deposited USD₮0: 734388.137294
+     Deposited thBILL: 0
+     Withdrawn USD₮0: 153959.294573
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 153959.294573
+     Collected Fees thBILL: 153959.294573
+
+👤 Owner: 0x4a7f8956669cc3830d6902f37f13981f8a9e7d39 (1 positions)
+
+  📍 Position 1:
+     Position ID: 3702
+     Liquidity: 301956314373213
+     Tick Range: -64 to -45
+     Deposited USD₮0: 102121.556756
+     Deposited thBILL: 199489.114526
+     Withdrawn USD₮0: 3502.612352
+     Withdrawn thBILL: 11569.859810
+     Collected Fees USD₮0: 3528.394569
+     Collected Fees thBILL: 3528.394569
+
+👤 Owner: 0xaa5fda3db71a3b9482a5b67b8898ee83c61d7256 (1 positions)
+
+  📍 Position 1:
+     Position ID: 4626
+     Liquidity: 134302306809539
+     Tick Range: -50 to -44
+     Deposited USD₮0: 40383.462776
+     Deposited thBILL: 0
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0x20be69b9f9b51947033975d37af477c1a4bdec95 (3 positions)
+
+  📍 Position 1:
+     Position ID: 5304
+     Liquidity: 96363107294977
+     Tick Range: -58 to -47
+     Deposited USD₮0: 12242.790220
+     Deposited thBILL: 40674.289285
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+  📍 Position 2:
+     Position ID: 5305
+     Liquidity: 4818155364156
+     Tick Range: -58 to -47
+     Deposited USD₮0: 612.139511
+     Deposited thBILL: 2033.714464
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+  📍 Position 3:
+     Position ID: 5306
+     Liquidity: 240907762995
+     Tick Range: -58 to -47
+     Deposited USD₮0: 30.606975
+     Deposited thBILL: 101.685721
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0x91d28db9d8ab580f23605a55a94b152ae6b29aab (1 positions)
+
+  📍 Position 1:
+     Position ID: 3711
+     Liquidity: 79418407984149
+     Tick Range: -63 to -43
+     Deposited USD₮0: 36920.260747
+     Deposited thBILL: 42459.474642
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0xe8cc278fa39be0600d042214cd35f0154d15cfa9 (1 positions)
+
+  📍 Position 1:
+     Position ID: 4625
+     Liquidity: 77982471095041
+     Tick Range: -50 to -42
+     Deposited USD₮0: 31263.248357
+     Deposited thBILL: 0
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0x6690eba6f5f436c7d17e72e7d22327de87e494a9 (1 positions)
+
+  📍 Position 1:
+     Position ID: 4349
+     Liquidity: 49440108030954
+     Tick Range: -57 to -37
+     Deposited USD₮0: 22549.000000
+     Deposited thBILL: 26866.097724
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0x5d14207860910ff3810118d167a0b68901f3b604 (1 positions)
+
+  📍 Position 1:
+     Position ID: 4646
+     Liquidity: 31182428686382
+     Tick Range: -62 to -42
+     Deposited USD₮0: 15502.473657
+     Deposited thBILL: 15670.061918
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0x62c536e5ad228ed43e1c54f08bec7dd3deeaaa29 (1 positions)
+
+  📍 Position 1:
+     Position ID: 4150
+     Liquidity: 24983491605558
+     Tick Range: -153 to 47
+     Deposited USD₮0: 149117.193155
+     Deposited thBILL: 149906.463550
+     Withdrawn USD₮0: 24658.522286
+     Withdrawn thBILL: 25167.713369
+     Collected Fees USD₮0: 24658.906099
+     Collected Fees thBILL: 24658.906099
+
+👤 Owner: 0x16e9c2687adedb5a6f8624d400dec2b632b605ac (1 positions)
+
+  📍 Position 1:
+     Position ID: 4110
+     Liquidity: 16818777710329
+     Tick Range: -75 to -66
+     Deposited USD₮0: 3804.477167
+     Deposited thBILL: 3762.842852
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0x5c715934c1644daa7c4982e523c3a623b45a8014 (1 positions)
+
+  📍 Position 1:
+     Position ID: 4147
+     Liquidity: 16564724267949
+     Tick Range: -203 to 99
+     Deposited USD₮0: 174835.660553
+     Deposited thBILL: 173993.706134
+     Withdrawn USD₮0: 49862.012783
+     Withdrawn thBILL: 49792.931826
+     Collected Fees USD₮0: 49862.307892
+     Collected Fees thBILL: 49862.307892
+
+👤 Owner: 0x28177b138fdec353c1da1858798c52ac0be0a0a8 (1 positions)
+
+  📍 Position 1:
+     Position ID: 4403
+     Liquidity: 15007435478591
+     Tick Range: -180 to -46
+     Deposited USD₮0: 511.932803
+     Deposited thBILL: 99468.963417
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0x637a23a767b4d77455c6cb5790f8a2d24d049c08 (3 positions)
+
+  📍 Position 1:
+     Position ID: 5281
+     Liquidity: 14611099883382
+     Tick Range: -100 to 0
+     Deposited USD₮0: 36230.000000
+     Deposited thBILL: 36729.144855
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+  📍 Position 2:
+     Position ID: 5279
+     Liquidity: 7820471827383
+     Tick Range: -60 to -40
+     Deposited USD₮0: 3736.000000
+     Deposited thBILL: 4081.242996
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+  📍 Position 3:
+     Position ID: 5282
+     Liquidity: 199606333509
+     Tick Range: -100 to 0
+     Deposited USD₮0: 495.000000
+     Deposited thBILL: 501.715597
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0x1390136b4d5a431d1c6499644cf18037df2f5148 (1 positions)
+
+  📍 Position 1:
+     Position ID: 4892
+     Liquidity: 14083781605611
+     Tick Range: -63 to -43
+     Deposited USD₮0: 6632.219764
+     Deposited thBILL: 7445.146949
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0x083cf4249610cffda029be60e9ad9299319ed661 (1 positions)
+
+  📍 Position 1:
+     Position ID: 5330
+     Liquidity: 13775314000591
+     Tick Range: -60 to -40
+     Deposited USD₮0: 6587.051983
+     Deposited thBILL: 7182.605754
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0x00745751d32b837c85ce713ef6dcaf1b7813825d (1 positions)
+
+  📍 Position 1:
+     Position ID: 4810
+     Liquidity: 11059497554565
+     Tick Range: -60 to -44
+     Deposited USD₮0: 4546.904958
+     Deposited thBILL: 4299.097144
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0xded148917e7a28425f8343a4c4170c6a889fc763 (1 positions)
+
+  📍 Position 1:
+     Position ID: 4806
+     Liquidity: 10612601659479
+     Tick Range: -153 to 47
+     Deposited USD₮0: 52654.061489
+     Deposited thBILL: 53200.000000
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0x470d235ca1caff614abee02d98ac3aa89a6758bd (1 positions)
+
+  📍 Position 1:
+     Position ID: 5176
+     Liquidity: 9983567502832
+     Tick Range: -70 to -30
+     Deposited USD₮0: 9354.412756
+     Deposited thBILL: 10598.613956
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0x36f07dee2ab548ba7e70017a0f5d389c60c891b7 (1 positions)
+
+  📍 Position 1:
+     Position ID: 4270
+     Liquidity: 9942976482533
+     Tick Range: -57 to -37
+     Deposited USD₮0: 4520.316210
+     Deposited thBILL: 5417.563519
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0xd595710aedaba1d2e18bfdbab46ab796664c6d89 (2 positions)
+
+  📍 Position 1:
+     Position ID: 3832
+     Liquidity: 9444306596782
+     Tick Range: -63 to -45
+     Deposited USD₮0: 3520.256799
+     Deposited thBILL: 4973.385641
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+  📍 Position 2:
+     Position ID: 3833
+     Liquidity: 1672564605795
+     Tick Range: -62 to -47
+     Deposited USD₮0: 457.480838
+     Deposited thBILL: 795.735845
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0xeb4eec4e1946f0ef984b09c594af08668b7239c7 (1 positions)
+
+  📍 Position 1:
+     Position ID: 5446
+     Liquidity: 9346057759894
+     Tick Range: -60 to -40
+     Deposited USD₮0: 4333.000000
+     Deposited thBILL: 5008.549682
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0x1a7930bc3c8331964bc04fdb3db9f5ffbd4059a5 (1 positions)
+
+  📍 Position 1:
+     Position ID: 4605
+     Liquidity: 7912336049944
+     Tick Range: -131 to 99
+     Deposited USD₮0: 58439.222393
+     Deposited thBILL: 32329.297034
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0x37114d6895479777a24a42ff0cb48d7844da06ae (3 positions)
+
+  📍 Position 1:
+     Position ID: 3810
+     Liquidity: 7731923730919
+     Tick Range: -63 to -43
+     Deposited USD₮0: 3607.578683
+     Deposited thBILL: 4120.648515
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+  📍 Position 2:
+     Position ID: 3923
+     Liquidity: 905971074059
+     Tick Range: -64 to -44
+     Deposited USD₮0: 418.130498
+     Deposited thBILL: 487.380002
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+  📍 Position 3:
+     Position ID: 5265
+     Liquidity: 146384046207
+     Tick Range: -59 to -39
+     Deposited USD₮0: 71.000000
+     Deposited thBILL: 75.329134
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0xc0d88eda86ae81f23971d00e0c7324e8e35d0def (1 positions)
+
+  📍 Position 1:
+     Position ID: 4520
+     Liquidity: 6942004394900
+     Tick Range: -59 to -39
+     Deposited USD₮0: 3147.218295
+     Deposited thBILL: 3791.121408
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0xb7d7d4034df7b33f41a59307b91f6cc5fd6f6d17 (1 positions)
+
+  📍 Position 1:
+     Position ID: 4514
+     Liquidity: 6823119963997
+     Tick Range: -59 to -39
+     Deposited USD₮0: 3091.680566
+     Deposited thBILL: 3727.829603
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0xbba8431c98f6a7312938d5b173dfe8222eceac22 (1 positions)
+
+  📍 Position 1:
+     Position ID: 4614
+     Liquidity: 6708480975857
+     Tick Range: -149 to 120
+     Deposited USD₮0: 57159.500457
+     Deposited thBILL: 32801.997519
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0xad66c362906fa61a7207ff56ecd9215696aaf849 (2 positions)
+
+  📍 Position 1:
+     Position ID: 4732
+     Liquidity: 6592270865663
+     Tick Range: -54 to -44
+     Deposited USD₮0: 1874.775363
+     Deposited thBILL: 1421.890457
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+  📍 Position 2:
+     Position ID: 5228
+     Liquidity: 4697301464228
+     Tick Range: -53 to -44
+     Deposited USD₮0: 1108.655917
+     Deposited thBILL: 1005.031879
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0xc3176deaf906af9a7576e7407e41b24e02452fa2 (1 positions)
+
+  📍 Position 1:
+     Position ID: 3455
+     Liquidity: 4873714845741
+     Tick Range: -57 to -35
+     Deposited USD₮0: 2808.465562
+     Deposited thBILL: 2551.458834
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0x079e7b4bd6ebdac4d60214e0d1340c8a19cf9343 (1 positions)
+
+  📍 Position 1:
+     Position ID: 5081
+     Liquidity: 4841815777087
+     Tick Range: -58 to -38
+     Deposited USD₮0: 2279.681304
+     Deposited thBILL: 2559.999999
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0x32faf8b9fbcdd004614edfd8d29fb2d05be0bb29 (1 positions)
+
+  📍 Position 1:
+     Position ID: 4852
+     Liquidity: 4643215712536
+     Tick Range: -95 to -30
+     Deposited USD₮0: 5174.988526
+     Deposited thBILL: 9888.871653
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0x5741af9d49effc161a14f781119a6c7e1617f558 (1 positions)
+
+  📍 Position 1:
+     Position ID: 4304
+     Liquidity: 4461181310003
+     Tick Range: -147 to 53
+     Deposited USD₮0: 22094.461710
+     Deposited thBILL: 22402.949983
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0xd1a336708fc4ddf193680b6c7b1400d3fede850c (1 positions)
+
+  📍 Position 1:
+     Position ID: 5417
+     Liquidity: 2781407384797
+     Tick Range: -100 to 0
+     Deposited USD₮0: 6851.235792
+     Deposited thBILL: 7037.234253
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0xbefde5c2a6001e6814d0c560825e3ef688c5f566 (1 positions)
+
+  📍 Position 1:
+     Position ID: 4172
+     Liquidity: 2606283079006
+     Tick Range: 953 to 1823
+     Deposited USD₮0: 105775.438611
+     Deposited thBILL: 0
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0xff739fcb372f5a9403fa7526f64a6c93bd762e1c (2 positions)
+
+  📍 Position 1:
+     Position ID: 5031
+     Liquidity: 2388544656581
+     Tick Range: -58 to -38
+     Deposited USD₮0: 1125.000000
+     Deposited thBILL: 1262.493564
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+  📍 Position 2:
+     Position ID: 4146
+     Liquidity: 1123416970385
+     Tick Range: -104 to -44
+     Deposited USD₮0: 560.375686
+     Deposited thBILL: 2799.999999
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0xf37568d3ef6b6e61b260a46af5fcf205c759c5f2 (1 positions)
+
+  📍 Position 1:
+     Position ID: 5380
+     Liquidity: 2009909324269
+     Tick Range: -60 to -40
+     Deposited USD₮0: 927.000000
+     Deposited thBILL: 1081.916126
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0x07c6fdb573ac8bb581e3bf3599ab8724ccbd4f1c (1 positions)
+
+  📍 Position 1:
+     Position ID: 5152
+     Liquidity: 2009660880771
+     Tick Range: -59 to -39
+     Deposited USD₮0: 986.881432
+     Deposited thBILL: 1022.084620
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0x8e900d7cc784a47b2f5b4baf0871aadf792d0cc1 (1 positions)
+
+  📍 Position 1:
+     Position ID: 4887
+     Liquidity: 1919825259764
+     Tick Range: -115 to -43
+     Deposited USD₮0: 888.003701
+     Deposited thBILL: 5999.999999
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0x5c1382d90372d3dc7dae534a0ee9359b346f6773 (1 positions)
+
+  📍 Position 1:
+     Position ID: 4809
+     Liquidity: 1596850893840
+     Tick Range: -55 to -48
+     Deposited USD₮0: 336.425755
+     Deposited thBILL: 222.688200
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0xc07a8283cddb00b5b44a716cda34ecd7233a6ba7 (1 positions)
+
+  📍 Position 1:
+     Position ID: 5381
+     Liquidity: 1582776490004
+     Tick Range: -60 to -40
+     Deposited USD₮0: 730.000000
+     Deposited thBILL: 851.994360
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0xd233a155e4073d578b3454d8ab01162923106bc6 (1 positions)
+
+  📍 Position 1:
+     Position ID: 4786
+     Liquidity: 1291039290780
+     Tick Range: -59 to -45
+     Deposited USD₮0: 466.565703
+     Deposited thBILL: 437.032372
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0x506185b55ea4a238488773b3055779d92f74d36f (1 positions)
+
+  📍 Position 1:
+     Position ID: 3518
+     Liquidity: 1105300272493
+     Tick Range: -69 to -50
+     Deposited USD₮0: 465.996615
+     Deposited thBILL: 583.386251
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0x0757866374e74e22ac6784e742fddd266ab8a30c (1 positions)
+
+  📍 Position 1:
+     Position ID: 5089
+     Liquidity: 939949921306
+     Tick Range: -56 to -39
+     Deposited USD₮0: 394.920944
+     Deposited thBILL: 403.803490
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0xda4a79e8517a229afd6b477d5eb6e097f85e9721 (1 positions)
+
+  📍 Position 1:
+     Position ID: 4662
+     Liquidity: 936940562591
+     Tick Range: -62 to -42
+     Deposited USD₮0: 436.413669
+     Deposited thBILL: 500.078358
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0xd52dc3de65efa3aaa936ed80cac1bd2c76aab027 (1 positions)
+
+  📍 Position 1:
+     Position ID: 4579
+     Liquidity: 899957042460
+     Tick Range: -59 to -39
+     Deposited USD₮0: 422.433734
+     Deposited thBILL: 477.117615
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0xb4b8895e5c7d745e5f98b8efb6ac8f5287b80b1f (1 positions)
+
+  📍 Position 1:
+     Position ID: 4983
+     Liquidity: 589923358012
+     Tick Range: -58 to -39
+     Deposited USD₮0: 248.625263
+     Deposited thBILL: 311.488506
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0x45c2088c43a310efeba10fa96437d4669de6c314 (1 positions)
+
+  📍 Position 1:
+     Position ID: 3652
+     Liquidity: 455560105194
+     Tick Range: -152 to 48
+     Deposited USD₮0: 2974.470061
+     Deposited thBILL: 3040.289140
+     Withdrawn USD₮0: 732.170042
+     Withdrawn thBILL: 738.750560
+     Collected Fees USD₮0: 732.201875
+     Collected Fees thBILL: 732.201875
+
+👤 Owner: 0x075267ffca613e8a86cb8eca03655281a0e2137b (1 positions)
+
+  📍 Position 1:
+     Position ID: 5145
+     Liquidity: 432345291279
+     Tick Range: -99 to 1
+     Deposited USD₮0: 1071.403130
+     Deposited thBILL: 1087.470033
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0x961f7e97171d04621a637329d8e62cff5ccdd471 (2 positions)
+
+  📍 Position 1:
+     Position ID: 3619
+     Liquidity: 381843618324
+     Tick Range: -102 to -2
+     Deposited USD₮0: 948.771385
+     Deposited thBILL: 957.936813
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+  📍 Position 2:
+     Position ID: 3622
+     Liquidity: 15944417497
+     Tick Range: -102 to -2
+     Deposited USD₮0: 39.617284
+     Deposited thBILL: 40.000000
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0x7be60c5711c59c707d7167cdf3e0000598a2adc0 (1 positions)
+
+  📍 Position 1:
+     Position ID: 4725
+     Liquidity: 323557300258
+     Tick Range: -60 to -40
+     Deposited USD₮0: 154.248526
+     Deposited thBILL: 169.173600
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0x358ea80f56a8623cc518729e3ba89e1be9a35b5d (1 positions)
+
+  📍 Position 1:
+     Position ID: 5119
+     Liquidity: 184801122450
+     Tick Range: -59 to -39
+     Deposited USD₮0: 82.467726
+     Deposited thBILL: 102.229554
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0x0661f7963fa984bdfe53f86fce7b3172d63bec13 (1 positions)
+
+  📍 Position 1:
+     Position ID: 4795
+     Liquidity: 119853930901
+     Tick Range: -152 to 46
+     Deposited USD₮0: 588.672713
+     Deposited thBILL: 594.869896
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0x40142d7fa07e74e60a66e704270029a6eec4aa7f (1 positions)
+
+  📍 Position 1:
+     Position ID: 4200
+     Liquidity: 78968832665
+     Tick Range: -57 to -37
+     Deposited USD₮0: 36.000000
+     Deposited thBILL: 42.928808
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0xadd660f9068e76db03474c8cac6196f97511c3fe (1 positions)
+
+  📍 Position 1:
+     Position ID: 3612
+     Liquidity: 38483494423
+     Tick Range: -62 to -42
+     Deposited USD₮0: 18.573378
+     Deposited thBILL: 19.895022
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0xeb1b16ae95059d2dea0251951b4f23c8bb59a445 (1 positions)
+
+  📍 Position 1:
+     Position ID: 5421
+     Liquidity: 24769986122
+     Tick Range: -100 to 0
+     Deposited USD₮0: 61.014081
+     Deposited thBILL: 62.670502
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0x7d94ce6a74dbc2451e80a41a54667c7ada961dbf (1 positions)
+
+  📍 Position 1:
+     Position ID: 4174
+     Liquidity: 15747788458
+     Tick Range: -59 to -40
+     Deposited USD₮0: 4.969504
+     Deposited thBILL: 9.974566
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+👤 Owner: 0x6a8d32c4f7f52ba4488f239f21204b05234e38b5 (1 positions)
+
+  📍 Position 1:
+     Position ID: 4189
+     Liquidity: 9198792476
+     Tick Range: -97 to 3
+     Deposited USD₮0: 22.646706
+     Deposited thBILL: 23.285905
+     Withdrawn USD₮0: 0
+     Withdrawn thBILL: 0
+     Collected Fees USD₮0: 0
+     Collected Fees thBILL: 0
+
+📊 CURRENT POSITIONS SUMMARY:
+   Total Active Positions: 67
+   Unique Owners: 57
+   Total Liquidity: 2536174966811781
+   Average Liquidity per Position: 37853357713609
+
+=== POSITION SNAPSHOTS (Last 7 Days) ===
+
+🎯 Position ID: 3326
+   Owner: 0xaf7fd67ae6b3e25f83291d5600fbe3b776eea4d3
+   Snapshots: 30
+   Tick Range: -90 to -27
+
+   📸 Snapshot 1 - 2025-09-11T02:38:58.000Z
+      Block: 13527529
+      Liquidity: 1176233664384010
+      Deposited USD₮0: 1352153.098171
+      Deposited thBILL: 2347183.107868
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 68.862571
+      Fees thBILL: 68.862571
+
+   📸 Snapshot 2 - 2025-09-11T01:25:48.000Z
+      Block: 13523066
+      Liquidity: 1110880873531159
+      Deposited USD₮0: 1281036.921157
+      Deposited thBILL: 2212780.669137
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 68.862571
+      Fees thBILL: 68.862571
+
+   📸 Snapshot 3 - 2025-09-11T01:25:21.000Z
+      Block: 13523039
+      Liquidity: 1110872303057504
+      Deposited USD₮0: 1281027.596595
+      Deposited thBILL: 2212763.041654
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 68.862571
+      Fees thBILL: 68.862571
+   ... and 27 more snapshots
+
+🎯 Position ID: 3695
+   Owner: 0xaf7fd67ae6b3e25f83291d5600fbe3b776eea4d3
+   Snapshots: 9
+   Tick Range: -118 to -26
+
+   📸 Snapshot 1 - 2025-09-10T09:23:43.000Z
+      Block: 13464379
+      Liquidity: 0
+      Deposited USD₮0: 278085.911173
+      Deposited thBILL: 655228.311038
+      Withdrawn USD₮0: 241211.230927
+      Withdrawn thBILL: 691911.963316
+      Fees USD₮0: 241226.196939
+      Fees thBILL: 241226.196939
+
+   📸 Snapshot 2 - 2025-09-09T14:15:39.000Z
+      Block: 13394347
+      Liquidity: 203395669740041
+      Deposited USD₮0: 278085.911173
+      Deposited thBILL: 655228.311038
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+   📸 Snapshot 3 - 2025-09-09T07:14:15.000Z
+      Block: 13368642
+      Liquidity: 127202917607743
+      Deposited USD₮0: 165094.260031
+      Deposited thBILL: 418549.829012
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+   ... and 6 more snapshots
+
+🎯 Position ID: 4147
+   Owner: 0x5c715934c1644daa7c4982e523c3a623b45a8014
+   Snapshots: 8
+   Tick Range: -203 to 99
+
+   📸 Snapshot 1 - 2025-09-10T07:16:55.000Z
+      Block: 13456644
+      Liquidity: 16564724267949
+      Deposited USD₮0: 174835.660553
+      Deposited thBILL: 173993.706134
+      Withdrawn USD₮0: 49862.012783
+      Withdrawn thBILL: 49792.931826
+      Fees USD₮0: 49862.307892
+      Fees thBILL: 49862.307892
+
+   📸 Snapshot 2 - 2025-09-10T06:35:19.000Z
+      Block: 13454107
+      Liquidity: 9937425941742
+      Deposited USD₮0: 125095.070272
+      Deposited thBILL: 124044.751363
+      Withdrawn USD₮0: 49862.012783
+      Withdrawn thBILL: 49792.931826
+      Fees USD₮0: 49862.307892
+      Fees thBILL: 49862.307892
+
+   📸 Snapshot 3 - 2025-09-10T04:26:23.000Z
+      Block: 13446242
+      Liquidity: 16562376569570
+      Deposited USD₮0: 125095.070272
+      Deposited thBILL: 124044.751363
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+   ... and 5 more snapshots
+
+🎯 Position ID: 3711
+   Owner: 0x91d28db9d8ab580f23605a55a94b152ae6b29aab
+   Snapshots: 6
+   Tick Range: -63 to -43
+
+   📸 Snapshot 1 - 2025-09-10T13:23:04.000Z
+      Block: 13478980
+      Liquidity: 79418407984149
+      Deposited USD₮0: 36920.260747
+      Deposited thBILL: 42459.474642
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+   📸 Snapshot 2 - 2025-09-10T13:20:55.000Z
+      Block: 13478848
+      Liquidity: 79346161031931
+      Deposited USD₮0: 36886.843351
+      Deposited thBILL: 42420.681147
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+   📸 Snapshot 3 - 2025-09-10T13:20:05.000Z
+      Block: 13478798
+      Liquidity: 78388690724167
+      Deposited USD₮0: 36443.971182
+      Deposited thBILL: 41906.560918
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+   ... and 3 more snapshots
+
+🎯 Position ID: 3652
+   Owner: 0x45c2088c43a310efeba10fa96437d4669de6c314
+   Snapshots: 5
+   Tick Range: -152 to 48
+
+   📸 Snapshot 1 - 2025-09-10T07:44:51.000Z
+      Block: 13458348
+      Liquidity: 455560105194
+      Deposited USD₮0: 2974.470061
+      Deposited thBILL: 3040.289140
+      Withdrawn USD₮0: 732.170042
+      Withdrawn thBILL: 738.750560
+      Fees USD₮0: 732.201875
+      Fees thBILL: 732.201875
+
+   📸 Snapshot 2 - 2025-09-10T07:42:08.000Z
+      Block: 13458183
+      Liquidity: 447322088771
+      Deposited USD₮0: 2934.275259
+      Deposited thBILL: 2998.318258
+      Withdrawn USD₮0: 732.170042
+      Withdrawn thBILL: 738.750560
+      Fees USD₮0: 732.201875
+      Fees thBILL: 732.201875
+
+   📸 Snapshot 3 - 2025-09-10T07:37:48.000Z
+      Block: 13457918
+      Liquidity: 290000937699
+      Deposited USD₮0: 2166.671988
+      Deposited thBILL: 2196.805932
+      Withdrawn USD₮0: 732.170042
+      Withdrawn thBILL: 738.750560
+      Fees USD₮0: 732.201875
+      Fees thBILL: 732.201875
+   ... and 2 more snapshots
+
+🎯 Position ID: 3863
+   Owner: 0x5c715934c1644daa7c4982e523c3a623b45a8014
+   Snapshots: 5
+   Tick Range: -64 to -44
+
+   📸 Snapshot 1 - 2025-09-09T13:29:49.000Z
+      Block: 13391551
+      Liquidity: 0
+      Deposited USD₮0: 95817.859849
+      Deposited thBILL: 103616.000000
+      Withdrawn USD₮0: 200044.792942
+      Withdrawn thBILL: 0
+      Fees USD₮0: 200052.966507
+      Fees thBILL: 200052.966507
+
+   📸 Snapshot 2 - 2025-09-09T08:23:11.000Z
+      Block: 13372847
+      Liquidity: 199515394233758
+      Deposited USD₮0: 95817.859849
+      Deposited thBILL: 103616.000000
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+   📸 Snapshot 3 - 2025-09-09T08:21:11.000Z
+      Block: 13372725
+      Liquidity: 199476883695962
+      Deposited USD₮0: 95799.365049
+      Deposited thBILL: 103596.000000
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+   ... and 2 more snapshots
+
+🎯 Position ID: 4655
+   Owner: 0xce233129416f3a9a26a0187cff1b057c3433e7ae
+   Snapshots: 5
+   Tick Range: -102 to -2
+
+   📸 Snapshot 1 - 2025-09-11T08:31:48.000Z
+      Block: 13549052
+      Liquidity: 0
+      Deposited USD₮0: 2375.882981
+      Deposited thBILL: 2420.754191
+      Withdrawn USD₮0: 2270.112799
+      Withdrawn thBILL: 2525.992953
+      Fees USD₮0: 2270.132794
+      Fees thBILL: 2270.132794
+
+   📸 Snapshot 2 - 2025-09-10T07:31:46.000Z
+      Block: 13457550
+      Liquidity: 960601354009
+      Deposited USD₮0: 2375.882981
+      Deposited thBILL: 2420.754191
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+   📸 Snapshot 3 - 2025-09-10T07:30:58.000Z
+      Block: 13457501
+      Liquidity: 956334938541
+      Deposited USD₮0: 2365.507764
+      Deposited thBILL: 2409.826524
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+   ... and 2 more snapshots
+
+🎯 Position ID: 4113
+   Owner: 0x5c715934c1644daa7c4982e523c3a623b45a8014
+   Snapshots: 4
+   Tick Range: -84 to -58
+
+   📸 Snapshot 1 - 2025-09-09T14:08:37.000Z
+      Block: 13393918
+      Liquidity: 0
+      Deposited USD₮0: 96260.207374
+      Deposited thBILL: 103091.999999
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 198735.707911
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+   📸 Snapshot 2 - 2025-09-09T13:38:25.000Z
+      Block: 13392076
+      Liquidity: 153424919965274
+      Deposited USD₮0: 96260.207374
+      Deposited thBILL: 103091.999999
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+   📸 Snapshot 3 - 2025-09-09T13:37:10.000Z
+      Block: 13392000
+      Liquidity: 153018818097466
+      Deposited USD₮0: 96005.541018
+      Deposited thBILL: 102819.000000
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+   ... and 1 more snapshots
+
+🎯 Position ID: 4150
+   Owner: 0x62c536e5ad228ed43e1c54f08bec7dd3deeaaa29
+   Snapshots: 4
+   Tick Range: -153 to 47
+
+   📸 Snapshot 1 - 2025-09-10T07:24:34.000Z
+      Block: 13457111
+      Liquidity: 24983491605558
+      Deposited USD₮0: 149117.193155
+      Deposited thBILL: 149906.463550
+      Withdrawn USD₮0: 24658.522286
+      Withdrawn thBILL: 25167.713369
+      Fees USD₮0: 24658.906099
+      Fees thBILL: 24658.906099
+
+   📸 Snapshot 2 - 2025-09-10T06:39:00.000Z
+      Block: 13454331
+      Liquidity: 14986471139968
+      Deposited USD₮0: 100196.933235
+      Deposited thBILL: 99116.193004
+      Withdrawn USD₮0: 24658.522286
+      Withdrawn thBILL: 25167.713369
+      Fees USD₮0: 24658.906099
+      Fees thBILL: 24658.906099
+
+   📸 Snapshot 3 - 2025-09-09T14:29:47.000Z
+      Block: 13395209
+      Liquidity: 19981961519957
+      Deposited USD₮0: 100196.933235
+      Deposited thBILL: 99116.193004
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+   ... and 1 more snapshots
+
+🎯 Position ID: 4605
+   Owner: 0x1a7930bc3c8331964bc04fdb3db9f5ffbd4059a5
+   Snapshots: 4
+   Tick Range: -131 to 99
+
+   📸 Snapshot 1 - 2025-09-10T05:53:45.000Z
+      Block: 13451571
+      Liquidity: 7912336049944
+      Deposited USD₮0: 58439.222393
+      Deposited thBILL: 32329.297034
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+   📸 Snapshot 2 - 2025-09-10T05:51:52.000Z
+      Block: 13451456
+      Liquidity: 7907367797017
+      Deposited USD₮0: 58402.226237
+      Deposited thBILL: 32309.297034
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+   📸 Snapshot 3 - 2025-09-10T05:48:54.000Z
+      Block: 13451275
+      Liquidity: 7808287536140
+      Deposited USD₮0: 57665.576085
+      Deposited thBILL: 31909.297034
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+   ... and 1 more snapshots
+
+🎯 Position ID: 5176
+   Owner: 0x470d235ca1caff614abee02d98ac3aa89a6758bd
+   Snapshots: 4
+   Tick Range: -70 to -30
+
+   📸 Snapshot 1 - 2025-09-10T23:45:25.000Z
+      Block: 13516943
+      Liquidity: 9983567502832
+      Deposited USD₮0: 9354.412756
+      Deposited thBILL: 10598.613956
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+   📸 Snapshot 2 - 2025-09-10T23:43:38.000Z
+      Block: 13516834
+      Liquidity: 9979851835404
+      Deposited USD₮0: 9350.930192
+      Deposited thBILL: 10594.670430
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+   📸 Snapshot 3 - 2025-09-10T23:41:31.000Z
+      Block: 13516705
+      Liquidity: 9947018664780
+      Deposited USD₮0: 9320.156880
+      Deposited thBILL: 10559.823754
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+   ... and 1 more snapshots
+
+🎯 Position ID: 3849
+   Owner: 0x62c536e5ad228ed43e1c54f08bec7dd3deeaaa29
+   Snapshots: 3
+   Tick Range: -64 to -44
+
+   📸 Snapshot 1 - 2025-09-09T13:29:38.000Z
+      Block: 13391540
+      Liquidity: 0
+      Deposited USD₮0: 95900.899217
+      Deposited thBILL: 103544.204736
+      Withdrawn USD₮0: 200055.654165
+      Withdrawn thBILL: 0
+      Fees USD₮0: 200063.756800
+      Fees thBILL: 200063.756800
+
+   📸 Snapshot 2 - 2025-09-09T09:31:23.000Z
+      Block: 13377007
+      Liquidity: 199526226713118
+      Deposited USD₮0: 95900.899217
+      Deposited thBILL: 103544.204736
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+   📸 Snapshot 3 - 2025-09-09T07:51:46.000Z
+      Block: 13370930
+      Liquidity: 149596109611154
+      Deposited USD₮0: 71843.975347
+      Deposited thBILL: 77691.000000
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4112
+   Owner: 0x62c536e5ad228ed43e1c54f08bec7dd3deeaaa29
+   Snapshots: 3
+   Tick Range: -86 to -56
+
+   📸 Snapshot 1 - 2025-09-09T14:10:01.000Z
+      Block: 13394004
+      Liquidity: 0
+      Deposited USD₮0: 96783.443649
+      Deposited thBILL: 102606.959382
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 198780.167286
+      Fees USD₮0: 0.000728000000
+      Fees thBILL: 0.000728000000
+
+   📸 Snapshot 2 - 2025-09-09T13:38:03.000Z
+      Block: 13392054
+      Liquidity: 132998007337467
+      Deposited USD₮0: 96783.443649
+      Deposited thBILL: 102606.959382
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+   📸 Snapshot 3 - 2025-09-09T13:34:37.000Z
+      Block: 13391844
+      Liquidity: 131282594488289
+      Deposited USD₮0: 95535.174128
+      Deposited thBILL: 101283.484990
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4614
+   Owner: 0xbba8431c98f6a7312938d5b173dfe8222eceac22
+   Snapshots: 3
+   Tick Range: -149 to 120
+
+   📸 Snapshot 1 - 2025-09-10T06:08:53.000Z
+      Block: 13452494
+      Liquidity: 6708480975857
+      Deposited USD₮0: 57159.500457
+      Deposited thBILL: 32801.997519
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+   📸 Snapshot 2 - 2025-09-10T06:06:46.000Z
+      Block: 13452365
+      Liquidity: 6702988638970
+      Deposited USD₮0: 57112.703092
+      Deposited thBILL: 32775.142017
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+   📸 Snapshot 3 - 2025-09-10T06:03:31.000Z
+      Block: 13452167
+      Liquidity: 5098412486194
+      Deposited USD₮0: 43440.938699
+      Deposited thBILL: 24929.356485
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4618
+   Owner: 0x3efd5cdb46c700481f40058341aa220ac2552660
+   Snapshots: 3
+   Tick Range: -41 to -3
+
+   📸 Snapshot 1 - 2025-09-11T07:56:17.000Z
+      Block: 13546886
+      Liquidity: 305168239873335
+      Deposited USD₮0: 734388.137294
+      Deposited thBILL: 0
+      Withdrawn USD₮0: 153959.294573
+      Withdrawn thBILL: 0
+      Fees USD₮0: 153959.294573
+      Fees thBILL: 153959.294573
+
+   📸 Snapshot 2 - 2025-09-10T08:52:06.000Z
+      Block: 13462451
+      Liquidity: 242838484991139
+      Deposited USD₮0: 615837.178294
+      Deposited thBILL: 0
+      Withdrawn USD₮0: 153959.294573
+      Withdrawn thBILL: 0
+      Fees USD₮0: 153959.294573
+      Fees thBILL: 153959.294573
+
+   📸 Snapshot 3 - 2025-09-10T06:04:30.000Z
+      Block: 13452227
+      Liquidity: 323784646654851
+      Deposited USD₮0: 615837.178294
+      Deposited thBILL: 0
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 3319
+   Owner: 0xaf7fd67ae6b3e25f83291d5600fbe3b776eea4d3
+   Snapshots: 2
+   Tick Range: -100 to 0
+
+   📸 Snapshot 1 - 2025-09-08T14:41:55.000Z
+      Block: 13308109
+      Liquidity: 0
+      Deposited USD₮0: 100.501226
+      Deposited thBILL: 100.000000
+      Withdrawn USD₮0: 93.277569
+      Withdrawn thBILL: 107.188919
+      Fees USD₮0: 93.277569
+      Fees thBILL: 93.277569
+
+   📸 Snapshot 2 - 2025-09-08T13:30:00.000Z
+      Block: 13303723
+      Liquidity: 40152270714
+      Deposited USD₮0: 100.501226
+      Deposited thBILL: 100.000000
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 3332
+   Owner: 0xba55bdbf959df826da6c35487eb15fad2164662d
+   Snapshots: 2
+   Tick Range: -1824 to -955
+
+   📸 Snapshot 1 - 2025-09-10T14:45:22.000Z
+      Block: 13484000
+      Liquidity: 0
+      Deposited USD₮0: 0
+      Deposited thBILL: 84710.583147
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 84710.583146
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+   📸 Snapshot 2 - 2025-09-08T13:43:35.000Z
+      Block: 13304551
+      Liquidity: 2089808764696
+      Deposited USD₮0: 0
+      Deposited thBILL: 84710.583147
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 3352
+   Owner: 0xcb7952f98f198a56af4b764b28b1bd165e2ceeef
+   Snapshots: 2
+   Tick Range: -1824 to -955
+
+   📸 Snapshot 1 - 2025-09-10T15:04:43.000Z
+      Block: 13485180
+      Liquidity: 0
+      Deposited USD₮0: 0
+      Deposited thBILL: 10071.344489
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 10071.344488
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+   📸 Snapshot 2 - 2025-09-08T14:00:22.000Z
+      Block: 13305575
+      Liquidity: 248459911424
+      Deposited USD₮0: 0
+      Deposited thBILL: 10071.344489
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 3455
+   Owner: 0xc3176deaf906af9a7576e7407e41b24e02452fa2
+   Snapshots: 2
+   Tick Range: -57 to -35
+
+   📸 Snapshot 1 - 2025-09-08T16:18:23.000Z
+      Block: 13313994
+      Liquidity: 4873714845741
+      Deposited USD₮0: 2808.465562
+      Deposited thBILL: 2551.458834
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+   📸 Snapshot 2 - 2025-09-08T15:45:17.000Z
+      Block: 13311975
+      Liquidity: 4448165453479
+      Deposited USD₮0: 2563.232345
+      Deposited thBILL: 2328.689120
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 3478
+   Owner: 0xc083ac4726597d74c2f5c4ddc7aabfa4b4808e67
+   Snapshots: 2
+   Tick Range: -50 to -44
+
+   📸 Snapshot 1 - 2025-09-09T01:10:30.000Z
+      Block: 13346453
+      Liquidity: 0
+      Deposited USD₮0: 98.596758
+      Deposited thBILL: 137.146603
+      Withdrawn USD₮0: 236.406676
+      Withdrawn thBILL: 0
+      Fees USD₮0: 236.415910
+      Fees thBILL: 236.415910
+
+   📸 Snapshot 2 - 2025-09-08T16:23:56.000Z
+      Block: 13314332
+      Liquidity: 786211975867
+      Deposited USD₮0: 98.596758
+      Deposited thBILL: 137.146603
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 3656
+   Owner: 0x45c2088c43a310efeba10fa96437d4669de6c314
+   Snapshots: 2
+   Tick Range: -77 to -27
+
+   📸 Snapshot 1 - 2025-09-10T07:41:27.000Z
+      Block: 13458141
+      Liquidity: 0
+      Deposited USD₮0: 802.050275
+      Deposited thBILL: 836.448184
+      Withdrawn USD₮0: 742.039586
+      Withdrawn thBILL: 896.156609
+      Fees USD₮0: 742.110251
+      Fees thBILL: 742.110251
+
+   📸 Snapshot 2 - 2025-09-09T02:51:09.000Z
+      Block: 13352593
+      Liquidity: 655879647649
+      Deposited USD₮0: 802.050275
+      Deposited thBILL: 836.448184
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 3671
+   Owner: 0xaf7fd67ae6b3e25f83291d5600fbe3b776eea4d3
+   Snapshots: 2
+   Tick Range: -110 to -20
+
+   📸 Snapshot 1 - 2025-09-09T03:39:27.000Z
+      Block: 13355539
+      Liquidity: 0
+      Deposited USD₮0: 26057.977419
+      Deposited thBILL: 48323.310617
+      Withdrawn USD₮0: 26057.977418
+      Withdrawn thBILL: 48323.310616
+      Fees USD₮0: 26057.977418
+      Fees thBILL: 26057.977418
+
+   📸 Snapshot 2 - 2025-09-09T03:38:51.000Z
+      Block: 13355502
+      Liquidity: 16563088757254
+      Deposited USD₮0: 26057.977419
+      Deposited thBILL: 48323.310617
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 3672
+   Owner: 0xaf7fd67ae6b3e25f83291d5600fbe3b776eea4d3
+   Snapshots: 2
+   Tick Range: -102 to -36
+
+   📸 Snapshot 1 - 2025-09-09T03:45:14.000Z
+      Block: 13355892
+      Liquidity: 0
+      Deposited USD₮0: 13028.988709
+      Deposited thBILL: 42514.544560
+      Withdrawn USD₮0: 13028.988708
+      Withdrawn thBILL: 42514.544559
+      Fees USD₮0: 13028.988708
+      Fees thBILL: 13028.988708
+
+   📸 Snapshot 2 - 2025-09-09T03:41:08.000Z
+      Block: 13355642
+      Liquidity: 16873098658961
+      Deposited USD₮0: 13028.988709
+      Deposited thBILL: 42514.544560
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 3675
+   Owner: 0xaf7fd67ae6b3e25f83291d5600fbe3b776eea4d3
+   Snapshots: 2
+   Tick Range: -102 to -36
+
+   📸 Snapshot 1 - 2025-09-09T03:44:56.000Z
+      Block: 13355873
+      Liquidity: 0
+      Deposited USD₮0: 4723.642674
+      Deposited thBILL: 15413.592062
+      Withdrawn USD₮0: 4723.642673
+      Withdrawn thBILL: 15413.592061
+      Fees USD₮0: 4723.642673
+      Fees thBILL: 4723.642673
+
+   📸 Snapshot 2 - 2025-09-09T03:44:06.000Z
+      Block: 13355823
+      Liquidity: 6117319666545
+      Deposited USD₮0: 4723.642674
+      Deposited thBILL: 15413.592062
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 3702
+   Owner: 0x4a7f8956669cc3830d6902f37f13981f8a9e7d39
+   Snapshots: 2
+   Tick Range: -64 to -45
+
+   📸 Snapshot 1 - 2025-09-10T14:44:33.000Z
+      Block: 13483950
+      Liquidity: 301956314373213
+      Deposited USD₮0: 102121.556756
+      Deposited thBILL: 199489.114526
+      Withdrawn USD₮0: 3502.612352
+      Withdrawn thBILL: 11569.859810
+      Fees USD₮0: 3528.394569
+      Fees thBILL: 3528.394569
+
+   📸 Snapshot 2 - 2025-09-09T04:23:17.000Z
+      Block: 13358213
+      Liquidity: 317848751971803
+      Deposited USD₮0: 102121.556756
+      Deposited thBILL: 199489.114526
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 3843
+   Owner: 0x5c715934c1644daa7c4982e523c3a623b45a8014
+   Snapshots: 2
+   Tick Range: -63 to -44
+
+   📸 Snapshot 1 - 2025-09-09T08:15:10.000Z
+      Block: 13372358
+      Liquidity: 0
+      Deposited USD₮0: 8.076347
+      Deposited thBILL: 9.900000
+      Withdrawn USD₮0: 9.092660
+      Withdrawn thBILL: 8.889062
+      Fees USD₮0: 9.092728
+      Fees thBILL: 9.092728
+
+   📸 Snapshot 2 - 2025-09-09T07:40:31.000Z
+      Block: 13370244
+      Liquidity: 18933065541
+      Deposited USD₮0: 8.076347
+      Deposited thBILL: 9.900000
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4060
+   Owner: 0x7d94ce6a74dbc2451e80a41a54667c7ada961dbf
+   Snapshots: 2
+   Tick Range: -79 to -59
+
+   📸 Snapshot 1 - 2025-09-09T14:41:55.000Z
+      Block: 13395949
+      Liquidity: 0
+      Deposited USD₮0: 5.230810
+      Deposited thBILL: 5.644202
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 10.841750
+      Fees USD₮0: 0.000247000000
+      Fees thBILL: 0.000247000000
+
+   📸 Snapshot 2 - 2025-09-09T12:55:07.000Z
+      Block: 13389435
+      Liquidity: 10879761166
+      Deposited USD₮0: 5.230810
+      Deposited thBILL: 5.644202
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4155
+   Owner: 0x62c536e5ad228ed43e1c54f08bec7dd3deeaaa29
+   Snapshots: 2
+   Tick Range: -153 to 47
+
+   📸 Snapshot 1 - 2025-09-09T14:29:06.000Z
+      Block: 13395168
+      Liquidity: 0
+      Deposited USD₮0: 280.250431
+      Deposited thBILL: 281.296689
+      Withdrawn USD₮0: 276.045421
+      Withdrawn thBILL: 285.479971
+      Fees USD₮0: 276.045421
+      Fees thBILL: 276.045421
+
+   📸 Snapshot 2 - 2025-09-09T14:25:48.000Z
+      Block: 13394966
+      Liquidity: 56298496171
+      Deposited USD₮0: 280.250431
+      Deposited thBILL: 281.296689
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4265
+   Owner: 0x20be69b9f9b51947033975d37af477c1a4bdec95
+   Snapshots: 2
+   Tick Range: -49 to -44
+
+   📸 Snapshot 1 - 2025-09-11T04:19:08.000Z
+      Block: 13533640
+      Liquidity: 0
+      Deposited USD₮0: 22041.788075
+      Deposited thBILL: 30951.146757
+      Withdrawn USD₮0: 53140.410284
+      Withdrawn thBILL: 0
+      Fees USD₮0: 53144.178021
+      Fees thBILL: 53144.178021
+
+   📸 Snapshot 2 - 2025-09-09T16:13:20.000Z
+      Block: 13401526
+      Liquidity: 212078636714808
+      Deposited USD₮0: 22041.788075
+      Deposited thBILL: 30951.146757
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4266
+   Owner: 0x20be69b9f9b51947033975d37af477c1a4bdec95
+   Snapshots: 2
+   Tick Range: -49 to -44
+
+   📸 Snapshot 1 - 2025-09-11T04:19:28.000Z
+      Block: 13533660
+      Liquidity: 0
+      Deposited USD₮0: 1102.089404
+      Deposited thBILL: 1547.557338
+      Withdrawn USD₮0: 2657.020514
+      Withdrawn thBILL: 0
+      Fees USD₮0: 2657.208900
+      Fees thBILL: 2657.208900
+
+   📸 Snapshot 2 - 2025-09-09T16:13:40.000Z
+      Block: 13401546
+      Liquidity: 10603931836768
+      Deposited USD₮0: 1102.089404
+      Deposited thBILL: 1547.557338
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4267
+   Owner: 0x20be69b9f9b51947033975d37af477c1a4bdec95
+   Snapshots: 2
+   Tick Range: -49 to -44
+
+   📸 Snapshot 1 - 2025-09-11T04:19:44.000Z
+      Block: 13533676
+      Liquidity: 0
+      Deposited USD₮0: 55.104470
+      Deposited thBILL: 77.377866
+      Withdrawn USD₮0: 132.851024
+      Withdrawn thBILL: 0
+      Fees USD₮0: 132.860443
+      Fees thBILL: 132.860443
+
+   📸 Snapshot 2 - 2025-09-09T16:13:55.000Z
+      Block: 13401561
+      Liquidity: 530196585671
+      Deposited USD₮0: 55.104470
+      Deposited thBILL: 77.377866
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4448
+   Owner: 0xd233a155e4073d578b3454d8ab01162923106bc6
+   Snapshots: 2
+   Tick Range: -51 to -44
+
+   📸 Snapshot 1 - 2025-09-10T10:33:52.000Z
+      Block: 13468658
+      Liquidity: 0
+      Deposited USD₮0: 359.348586
+      Deposited thBILL: 479.647460
+      Withdrawn USD₮0: 841.351727
+      Withdrawn thBILL: 0
+      Fees USD₮0: 841.396432
+      Fees thBILL: 841.396432
+
+   📸 Snapshot 2 - 2025-09-09T23:38:00.000Z
+      Block: 13428650
+      Liquidity: 2398279859617
+      Deposited USD₮0: 359.348586
+      Deposited thBILL: 479.647460
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4456
+   Owner: 0x00745751d32b837c85ce713ef6dcaf1b7813825d
+   Snapshots: 2
+   Tick Range: -50 to -44
+
+   📸 Snapshot 1 - 2025-09-10T11:15:21.000Z
+      Block: 13471189
+      Liquidity: 0
+      Deposited USD₮0: 4530.370503
+      Deposited thBILL: 4539.110380
+      Withdrawn USD₮0: 9091.545666
+      Withdrawn thBILL: 0
+      Fees USD₮0: 9091.904958
+      Fees thBILL: 9091.904958
+
+   📸 Snapshot 2 - 2025-09-10T00:01:29.000Z
+      Block: 13430083
+      Liquidity: 30235533844421
+      Deposited USD₮0: 4530.370503
+      Deposited thBILL: 4539.110380
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4656
+   Owner: 0xce233129416f3a9a26a0187cff1b057c3433e7ae
+   Snapshots: 2
+   Tick Range: -102 to -2
+
+   📸 Snapshot 1 - 2025-09-10T07:30:00.000Z
+      Block: 13457442
+      Liquidity: 0
+      Deposited USD₮0: 7.998054
+      Deposited thBILL: 8.066672
+      Withdrawn USD₮0: 7.823625
+      Withdrawn thBILL: 8.240210
+      Fees USD₮0: 7.823625
+      Fees thBILL: 7.823625
+
+   📸 Snapshot 2 - 2025-09-10T07:09:22.000Z
+      Block: 13456184
+      Liquidity: 3217170086
+      Deposited USD₮0: 7.998054
+      Deposited thBILL: 8.066672
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4665
+   Owner: 0xce233129416f3a9a26a0187cff1b057c3433e7ae
+   Snapshots: 2
+   Tick Range: -102 to -2
+
+   📸 Snapshot 1 - 2025-09-10T07:29:29.000Z
+      Block: 13457411
+      Liquidity: 0
+      Deposited USD₮0: 590.447631
+      Deposited thBILL: 604.220467
+      Withdrawn USD₮0: 581.821979
+      Withdrawn thBILL: 612.802297
+      Fees USD₮0: 581.821979
+      Fees thBILL: 581.821979
+
+   📸 Snapshot 2 - 2025-09-10T07:18:00.000Z
+      Block: 13456710
+      Liquidity: 239252277240
+      Deposited USD₮0: 590.447631
+      Deposited thBILL: 604.220467
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4666
+   Owner: 0xce233129416f3a9a26a0187cff1b057c3433e7ae
+   Snapshots: 2
+   Tick Range: -102 to -2
+
+   📸 Snapshot 1 - 2025-09-10T07:29:50.000Z
+      Block: 13457432
+      Liquidity: 0
+      Deposited USD₮0: 8.203582
+      Deposited thBILL: 8.394940
+      Withdrawn USD₮0: 8.083738
+      Withdrawn thBILL: 8.514174
+      Fees USD₮0: 8.083738
+      Fees thBILL: 8.083738
+
+   📸 Snapshot 2 - 2025-09-10T07:18:38.000Z
+      Block: 13456749
+      Liquidity: 3324131679
+      Deposited USD₮0: 8.203582
+      Deposited thBILL: 8.394940
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4816
+   Owner: 0x00745751d32b837c85ce713ef6dcaf1b7813825d
+   Snapshots: 2
+   Tick Range: -60 to -44
+
+   📸 Snapshot 1 - 2025-09-10T11:38:31.000Z
+      Block: 13472602
+      Liquidity: 0
+      Deposited USD₮0: 1695.295454
+      Deposited thBILL: 1602.901295
+      Withdrawn USD₮0: 1695.295453
+      Withdrawn thBILL: 1602.901294
+      Fees USD₮0: 1695.295453
+      Fees thBILL: 1695.295453
+
+   📸 Snapshot 2 - 2025-09-10T11:35:41.000Z
+      Block: 13472429
+      Liquidity: 4123489737142
+      Deposited USD₮0: 1695.295454
+      Deposited thBILL: 1602.901295
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4852
+   Owner: 0x32faf8b9fbcdd004614edfd8d29fb2d05be0bb29
+   Snapshots: 2
+   Tick Range: -95 to -30
+
+   📸 Snapshot 1 - 2025-09-10T12:51:46.000Z
+      Block: 13477070
+      Liquidity: 4643215712536
+      Deposited USD₮0: 5174.988526
+      Deposited thBILL: 9888.871653
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+   📸 Snapshot 2 - 2025-09-10T12:48:00.000Z
+      Block: 13476840
+      Liquidity: 4590902940062
+      Deposited USD₮0: 5116.693120
+      Deposited thBILL: 9777.450179
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4856
+   Owner: 0x32faf8b9fbcdd004614edfd8d29fb2d05be0bb29
+   Snapshots: 2
+   Tick Range: -95 to -30
+
+   📸 Snapshot 1 - 2025-09-10T12:51:06.000Z
+      Block: 13477030
+      Liquidity: 0
+      Deposited USD₮0: 58.295407
+      Deposited thBILL: 111.421476
+      Withdrawn USD₮0: 58.295406
+      Withdrawn thBILL: 111.421475
+      Fees USD₮0: 58.295406
+      Fees thBILL: 58.295406
+
+   📸 Snapshot 2 - 2025-09-10T12:49:57.000Z
+      Block: 13476959
+      Liquidity: 52312773413
+      Deposited USD₮0: 58.295407
+      Deposited thBILL: 111.421476
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 5330
+   Owner: 0x083cf4249610cffda029be60e9ad9299319ed661
+   Snapshots: 2
+   Tick Range: -60 to -40
+
+   📸 Snapshot 1 - 2025-09-11T05:15:45.000Z
+      Block: 13537093
+      Liquidity: 13775314000591
+      Deposited USD₮0: 6587.051983
+      Deposited thBILL: 7182.605754
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+   📸 Snapshot 2 - 2025-09-11T05:06:21.000Z
+      Block: 13536520
+      Liquidity: 12056180126921
+      Deposited USD₮0: 5765.000000
+      Deposited thBILL: 6286.229754
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 3518
+   Owner: 0x506185b55ea4a238488773b3055779d92f74d36f
+   Snapshots: 1
+   Tick Range: -69 to -50
+
+   📸 Snapshot 1 - 2025-09-08T17:32:56.000Z
+      Block: 13318541
+      Liquidity: 1105300272493
+      Deposited USD₮0: 465.996615
+      Deposited thBILL: 583.386251
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 3612
+   Owner: 0xadd660f9068e76db03474c8cac6196f97511c3fe
+   Snapshots: 1
+   Tick Range: -62 to -42
+
+   📸 Snapshot 1 - 2025-09-09T01:47:00.000Z
+      Block: 13348680
+      Liquidity: 38483494423
+      Deposited USD₮0: 18.573378
+      Deposited thBILL: 19.895022
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 3619
+   Owner: 0x961f7e97171d04621a637329d8e62cff5ccdd471
+   Snapshots: 1
+   Tick Range: -102 to -2
+
+   📸 Snapshot 1 - 2025-09-09T01:58:56.000Z
+      Block: 13349407
+      Liquidity: 381843618324
+      Deposited USD₮0: 948.771385
+      Deposited thBILL: 957.936813
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 3622
+   Owner: 0x961f7e97171d04621a637329d8e62cff5ccdd471
+   Snapshots: 1
+   Tick Range: -102 to -2
+
+   📸 Snapshot 1 - 2025-09-09T02:03:00.000Z
+      Block: 13349655
+      Liquidity: 15944417497
+      Deposited USD₮0: 39.617284
+      Deposited thBILL: 40.000000
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 3810
+   Owner: 0x37114d6895479777a24a42ff0cb48d7844da06ae
+   Snapshots: 1
+   Tick Range: -63 to -43
+
+   📸 Snapshot 1 - 2025-09-09T07:01:46.000Z
+      Block: 13367880
+      Liquidity: 7731923730919
+      Deposited USD₮0: 3607.578683
+      Deposited thBILL: 4120.648515
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 3832
+   Owner: 0xd595710aedaba1d2e18bfdbab46ab796664c6d89
+   Snapshots: 1
+   Tick Range: -63 to -45
+
+   📸 Snapshot 1 - 2025-09-09T07:29:07.000Z
+      Block: 13369549
+      Liquidity: 9444306596782
+      Deposited USD₮0: 3520.256799
+      Deposited thBILL: 4973.385641
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 3833
+   Owner: 0xd595710aedaba1d2e18bfdbab46ab796664c6d89
+   Snapshots: 1
+   Tick Range: -62 to -47
+
+   📸 Snapshot 1 - 2025-09-09T07:30:43.000Z
+      Block: 13369646
+      Liquidity: 1672564605795
+      Deposited USD₮0: 457.480838
+      Deposited thBILL: 795.735845
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 3923
+   Owner: 0x37114d6895479777a24a42ff0cb48d7844da06ae
+   Snapshots: 1
+   Tick Range: -64 to -44
+
+   📸 Snapshot 1 - 2025-09-09T09:25:52.000Z
+      Block: 13376670
+      Liquidity: 905971074059
+      Deposited USD₮0: 418.130498
+      Deposited thBILL: 487.380002
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4110
+   Owner: 0x16e9c2687adedb5a6f8624d400dec2b632b605ac
+   Snapshots: 1
+   Tick Range: -75 to -66
+
+   📸 Snapshot 1 - 2025-09-09T13:33:48.000Z
+      Block: 13391794
+      Liquidity: 16818777710329
+      Deposited USD₮0: 3804.477167
+      Deposited thBILL: 3762.842852
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4146
+   Owner: 0xff739fcb372f5a9403fa7526f64a6c93bd762e1c
+   Snapshots: 1
+   Tick Range: -104 to -44
+
+   📸 Snapshot 1 - 2025-09-09T14:20:32.000Z
+      Block: 13394645
+      Liquidity: 1123416970385
+      Deposited USD₮0: 560.375686
+      Deposited thBILL: 2799.999999
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4172
+   Owner: 0xbefde5c2a6001e6814d0c560825e3ef688c5f566
+   Snapshots: 1
+   Tick Range: 953 to 1823
+
+   📸 Snapshot 1 - 2025-09-09T14:41:50.000Z
+      Block: 13395944
+      Liquidity: 2606283079006
+      Deposited USD₮0: 105775.438611
+      Deposited thBILL: 0
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4174
+   Owner: 0x7d94ce6a74dbc2451e80a41a54667c7ada961dbf
+   Snapshots: 1
+   Tick Range: -59 to -40
+
+   📸 Snapshot 1 - 2025-09-09T14:44:20.000Z
+      Block: 13396097
+      Liquidity: 15747788458
+      Deposited USD₮0: 4.969504
+      Deposited thBILL: 9.974566
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4189
+   Owner: 0x6a8d32c4f7f52ba4488f239f21204b05234e38b5
+   Snapshots: 1
+   Tick Range: -97 to 3
+
+   📸 Snapshot 1 - 2025-09-09T14:57:58.000Z
+      Block: 13396928
+      Liquidity: 9198792476
+      Deposited USD₮0: 22.646706
+      Deposited thBILL: 23.285905
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4200
+   Owner: 0x40142d7fa07e74e60a66e704270029a6eec4aa7f
+   Snapshots: 1
+   Tick Range: -57 to -37
+
+   📸 Snapshot 1 - 2025-09-09T15:03:00.000Z
+      Block: 13397235
+      Liquidity: 78968832665
+      Deposited USD₮0: 36.000000
+      Deposited thBILL: 42.928808
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4270
+   Owner: 0x36f07dee2ab548ba7e70017a0f5d389c60c891b7
+   Snapshots: 1
+   Tick Range: -57 to -37
+
+   📸 Snapshot 1 - 2025-09-09T16:16:39.000Z
+      Block: 13401728
+      Liquidity: 9942976482533
+      Deposited USD₮0: 4520.316210
+      Deposited thBILL: 5417.563519
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4304
+   Owner: 0x5741af9d49effc161a14f781119a6c7e1617f558
+   Snapshots: 1
+   Tick Range: -147 to 53
+
+   📸 Snapshot 1 - 2025-09-09T16:40:37.000Z
+      Block: 13403190
+      Liquidity: 4461181310003
+      Deposited USD₮0: 22094.461710
+      Deposited thBILL: 22402.949983
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4349
+   Owner: 0x6690eba6f5f436c7d17e72e7d22327de87e494a9
+   Snapshots: 1
+   Tick Range: -57 to -37
+
+   📸 Snapshot 1 - 2025-09-09T17:41:22.000Z
+      Block: 13406896
+      Liquidity: 49440108030954
+      Deposited USD₮0: 22549.000000
+      Deposited thBILL: 26866.097724
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4403
+   Owner: 0x28177b138fdec353c1da1858798c52ac0be0a0a8
+   Snapshots: 1
+   Tick Range: -180 to -46
+
+   📸 Snapshot 1 - 2025-09-09T20:55:27.000Z
+      Block: 13418735
+      Liquidity: 15007435478591
+      Deposited USD₮0: 511.932803
+      Deposited thBILL: 99468.963417
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4514
+   Owner: 0xb7d7d4034df7b33f41a59307b91f6cc5fd6f6d17
+   Snapshots: 1
+   Tick Range: -59 to -39
+
+   📸 Snapshot 1 - 2025-09-10T02:23:16.000Z
+      Block: 13438732
+      Liquidity: 6823119963997
+      Deposited USD₮0: 3091.680566
+      Deposited thBILL: 3727.829603
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4520
+   Owner: 0xc0d88eda86ae81f23971d00e0c7324e8e35d0def
+   Snapshots: 1
+   Tick Range: -59 to -39
+
+   📸 Snapshot 1 - 2025-09-10T02:31:48.000Z
+      Block: 13439252
+      Liquidity: 6942004394900
+      Deposited USD₮0: 3147.218295
+      Deposited thBILL: 3791.121408
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4579
+   Owner: 0xd52dc3de65efa3aaa936ed80cac1bd2c76aab027
+   Snapshots: 1
+   Tick Range: -59 to -39
+
+   📸 Snapshot 1 - 2025-09-10T05:02:12.000Z
+      Block: 13448427
+      Liquidity: 899957042460
+      Deposited USD₮0: 422.433734
+      Deposited thBILL: 477.117615
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4625
+   Owner: 0xe8cc278fa39be0600d042214cd35f0154d15cfa9
+   Snapshots: 1
+   Tick Range: -50 to -42
+
+   📸 Snapshot 1 - 2025-09-10T06:20:23.000Z
+      Block: 13453196
+      Liquidity: 77982471095041
+      Deposited USD₮0: 31263.248357
+      Deposited thBILL: 0
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4626
+   Owner: 0xaa5fda3db71a3b9482a5b67b8898ee83c61d7256
+   Snapshots: 1
+   Tick Range: -50 to -44
+
+   📸 Snapshot 1 - 2025-09-10T06:22:12.000Z
+      Block: 13453307
+      Liquidity: 134302306809539
+      Deposited USD₮0: 40383.462776
+      Deposited thBILL: 0
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4646
+   Owner: 0x5d14207860910ff3810118d167a0b68901f3b604
+   Snapshots: 1
+   Tick Range: -62 to -42
+
+   📸 Snapshot 1 - 2025-09-10T06:59:49.000Z
+      Block: 13455601
+      Liquidity: 31182428686382
+      Deposited USD₮0: 15502.473657
+      Deposited thBILL: 15670.061918
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4662
+   Owner: 0xda4a79e8517a229afd6b477d5eb6e097f85e9721
+   Snapshots: 1
+   Tick Range: -62 to -42
+
+   📸 Snapshot 1 - 2025-09-10T07:15:36.000Z
+      Block: 13456564
+      Liquidity: 936940562591
+      Deposited USD₮0: 436.413669
+      Deposited thBILL: 500.078358
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4725
+   Owner: 0x7be60c5711c59c707d7167cdf3e0000598a2adc0
+   Snapshots: 1
+   Tick Range: -60 to -40
+
+   📸 Snapshot 1 - 2025-09-10T09:03:01.000Z
+      Block: 13463117
+      Liquidity: 323557300258
+      Deposited USD₮0: 154.248526
+      Deposited thBILL: 169.173600
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4732
+   Owner: 0xad66c362906fa61a7207ff56ecd9215696aaf849
+   Snapshots: 1
+   Tick Range: -54 to -44
+
+   📸 Snapshot 1 - 2025-09-10T09:12:47.000Z
+      Block: 13463712
+      Liquidity: 6592270865663
+      Deposited USD₮0: 1874.775363
+      Deposited thBILL: 1421.890457
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4786
+   Owner: 0xd233a155e4073d578b3454d8ab01162923106bc6
+   Snapshots: 1
+   Tick Range: -59 to -45
+
+   📸 Snapshot 1 - 2025-09-10T10:40:32.000Z
+      Block: 13469065
+      Liquidity: 1291039290780
+      Deposited USD₮0: 466.565703
+      Deposited thBILL: 437.032372
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4795
+   Owner: 0x0661f7963fa984bdfe53f86fce7b3172d63bec13
+   Snapshots: 1
+   Tick Range: -152 to 46
+
+   📸 Snapshot 1 - 2025-09-10T10:52:08.000Z
+      Block: 13469773
+      Liquidity: 119853930901
+      Deposited USD₮0: 588.672713
+      Deposited thBILL: 594.869896
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4806
+   Owner: 0xded148917e7a28425f8343a4c4170c6a889fc763
+   Snapshots: 1
+   Tick Range: -153 to 47
+
+   📸 Snapshot 1 - 2025-09-10T11:11:17.000Z
+      Block: 13470941
+      Liquidity: 10612601659479
+      Deposited USD₮0: 52654.061489
+      Deposited thBILL: 53200.000000
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4809
+   Owner: 0x5c1382d90372d3dc7dae534a0ee9359b346f6773
+   Snapshots: 1
+   Tick Range: -55 to -48
+
+   📸 Snapshot 1 - 2025-09-10T11:27:08.000Z
+      Block: 13471908
+      Liquidity: 1596850893840
+      Deposited USD₮0: 336.425755
+      Deposited thBILL: 222.688200
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4810
+   Owner: 0x00745751d32b837c85ce713ef6dcaf1b7813825d
+   Snapshots: 1
+   Tick Range: -60 to -44
+
+   📸 Snapshot 1 - 2025-09-10T11:28:04.000Z
+      Block: 13471965
+      Liquidity: 11059497554565
+      Deposited USD₮0: 4546.904958
+      Deposited thBILL: 4299.097144
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4887
+   Owner: 0x8e900d7cc784a47b2f5b4baf0871aadf792d0cc1
+   Snapshots: 1
+   Tick Range: -115 to -43
+
+   📸 Snapshot 1 - 2025-09-10T13:30:49.000Z
+      Block: 13479452
+      Liquidity: 1919825259764
+      Deposited USD₮0: 888.003701
+      Deposited thBILL: 5999.999999
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4892
+   Owner: 0x1390136b4d5a431d1c6499644cf18037df2f5148
+   Snapshots: 1
+   Tick Range: -63 to -43
+
+   📸 Snapshot 1 - 2025-09-10T13:35:14.000Z
+      Block: 13479722
+      Liquidity: 14083781605611
+      Deposited USD₮0: 6632.219764
+      Deposited thBILL: 7445.146949
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 4983
+   Owner: 0xb4b8895e5c7d745e5f98b8efb6ac8f5287b80b1f
+   Snapshots: 1
+   Tick Range: -58 to -39
+
+   📸 Snapshot 1 - 2025-09-10T15:36:41.000Z
+      Block: 13487130
+      Liquidity: 589923358012
+      Deposited USD₮0: 248.625263
+      Deposited thBILL: 311.488506
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 5031
+   Owner: 0xff739fcb372f5a9403fa7526f64a6c93bd762e1c
+   Snapshots: 1
+   Tick Range: -58 to -38
+
+   📸 Snapshot 1 - 2025-09-10T17:19:40.000Z
+      Block: 13493412
+      Liquidity: 2388544656581
+      Deposited USD₮0: 1125.000000
+      Deposited thBILL: 1262.493564
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 5081
+   Owner: 0x079e7b4bd6ebdac4d60214e0d1340c8a19cf9343
+   Snapshots: 1
+   Tick Range: -58 to -38
+
+   📸 Snapshot 1 - 2025-09-10T18:43:23.000Z
+      Block: 13498519
+      Liquidity: 4841815777087
+      Deposited USD₮0: 2279.681304
+      Deposited thBILL: 2559.999999
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 5089
+   Owner: 0x0757866374e74e22ac6784e742fddd266ab8a30c
+   Snapshots: 1
+   Tick Range: -56 to -39
+
+   📸 Snapshot 1 - 2025-09-10T19:29:18.000Z
+      Block: 13501320
+      Liquidity: 939949921306
+      Deposited USD₮0: 394.920944
+      Deposited thBILL: 403.803490
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 5119
+   Owner: 0x358ea80f56a8623cc518729e3ba89e1be9a35b5d
+   Snapshots: 1
+   Tick Range: -59 to -39
+
+   📸 Snapshot 1 - 2025-09-10T21:08:42.000Z
+      Block: 13507383
+      Liquidity: 184801122450
+      Deposited USD₮0: 82.467726
+      Deposited thBILL: 102.229554
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 5145
+   Owner: 0x075267ffca613e8a86cb8eca03655281a0e2137b
+   Snapshots: 1
+   Tick Range: -99 to 1
+
+   📸 Snapshot 1 - 2025-09-10T22:29:00.000Z
+      Block: 13512281
+      Liquidity: 432345291279
+      Deposited USD₮0: 1071.403130
+      Deposited thBILL: 1087.470033
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 5152
+   Owner: 0x07c6fdb573ac8bb581e3bf3599ab8724ccbd4f1c
+   Snapshots: 1
+   Tick Range: -59 to -39
+
+   📸 Snapshot 1 - 2025-09-10T22:41:01.000Z
+      Block: 13513015
+      Liquidity: 2009660880771
+      Deposited USD₮0: 986.881432
+      Deposited thBILL: 1022.084620
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 5228
+   Owner: 0xad66c362906fa61a7207ff56ecd9215696aaf849
+   Snapshots: 1
+   Tick Range: -53 to -44
+
+   📸 Snapshot 1 - 2025-09-11T01:01:49.000Z
+      Block: 13521603
+      Liquidity: 4697301464228
+      Deposited USD₮0: 1108.655917
+      Deposited thBILL: 1005.031879
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 5265
+   Owner: 0x37114d6895479777a24a42ff0cb48d7844da06ae
+   Snapshots: 1
+   Tick Range: -59 to -39
+
+   📸 Snapshot 1 - 2025-09-11T02:45:54.000Z
+      Block: 13527952
+      Liquidity: 146384046207
+      Deposited USD₮0: 71.000000
+      Deposited thBILL: 75.329134
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 5279
+   Owner: 0x637a23a767b4d77455c6cb5790f8a2d24d049c08
+   Snapshots: 1
+   Tick Range: -60 to -40
+
+   📸 Snapshot 1 - 2025-09-11T03:31:28.000Z
+      Block: 13530732
+      Liquidity: 7820471827383
+      Deposited USD₮0: 3736.000000
+      Deposited thBILL: 4081.242996
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 5281
+   Owner: 0x637a23a767b4d77455c6cb5790f8a2d24d049c08
+   Snapshots: 1
+   Tick Range: -100 to 0
+
+   📸 Snapshot 1 - 2025-09-11T03:33:31.000Z
+      Block: 13530857
+      Liquidity: 14611099883382
+      Deposited USD₮0: 36230.000000
+      Deposited thBILL: 36729.144855
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 5282
+   Owner: 0x637a23a767b4d77455c6cb5790f8a2d24d049c08
+   Snapshots: 1
+   Tick Range: -100 to 0
+
+   📸 Snapshot 1 - 2025-09-11T03:35:50.000Z
+      Block: 13530998
+      Liquidity: 199606333509
+      Deposited USD₮0: 495.000000
+      Deposited thBILL: 501.715597
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 5304
+   Owner: 0x20be69b9f9b51947033975d37af477c1a4bdec95
+   Snapshots: 1
+   Tick Range: -58 to -47
+
+   📸 Snapshot 1 - 2025-09-11T04:25:45.000Z
+      Block: 13534043
+      Liquidity: 96363107294977
+      Deposited USD₮0: 12242.790220
+      Deposited thBILL: 40674.289285
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 5305
+   Owner: 0x20be69b9f9b51947033975d37af477c1a4bdec95
+   Snapshots: 1
+   Tick Range: -58 to -47
+
+   📸 Snapshot 1 - 2025-09-11T04:25:59.000Z
+      Block: 13534057
+      Liquidity: 4818155364156
+      Deposited USD₮0: 612.139511
+      Deposited thBILL: 2033.714464
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 5306
+   Owner: 0x20be69b9f9b51947033975d37af477c1a4bdec95
+   Snapshots: 1
+   Tick Range: -58 to -47
+
+   📸 Snapshot 1 - 2025-09-11T04:26:11.000Z
+      Block: 13534070
+      Liquidity: 240907762995
+      Deposited USD₮0: 30.606975
+      Deposited thBILL: 101.685721
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 5380
+   Owner: 0xf37568d3ef6b6e61b260a46af5fcf205c759c5f2
+   Snapshots: 1
+   Tick Range: -60 to -40
+
+   📸 Snapshot 1 - 2025-09-11T06:32:38.000Z
+      Block: 13541783
+      Liquidity: 2009909324269
+      Deposited USD₮0: 927.000000
+      Deposited thBILL: 1081.916126
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 5381
+   Owner: 0xc07a8283cddb00b5b44a716cda34ecd7233a6ba7
+   Snapshots: 1
+   Tick Range: -60 to -40
+
+   📸 Snapshot 1 - 2025-09-11T06:32:57.000Z
+      Block: 13541802
+      Liquidity: 1582776490004
+      Deposited USD₮0: 730.000000
+      Deposited thBILL: 851.994360
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 5417
+   Owner: 0xd1a336708fc4ddf193680b6c7b1400d3fede850c
+   Snapshots: 1
+   Tick Range: -100 to 0
+
+   📸 Snapshot 1 - 2025-09-11T07:40:38.000Z
+      Block: 13545931
+      Liquidity: 2781407384797
+      Deposited USD₮0: 6851.235792
+      Deposited thBILL: 7037.234253
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 5421
+   Owner: 0xeb1b16ae95059d2dea0251951b4f23c8bb59a445
+   Snapshots: 1
+   Tick Range: -100 to 0
+
+   📸 Snapshot 1 - 2025-09-11T07:49:43.000Z
+      Block: 13546485
+      Liquidity: 24769986122
+      Deposited USD₮0: 61.014081
+      Deposited thBILL: 62.670502
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+🎯 Position ID: 5446
+   Owner: 0xeb4eec4e1946f0ef984b09c594af08668b7239c7
+   Snapshots: 1
+   Tick Range: -60 to -40
+
+   📸 Snapshot 1 - 2025-09-11T08:34:18.000Z
+      Block: 13549205
+      Liquidity: 9346057759894
+      Deposited USD₮0: 4333.000000
+      Deposited thBILL: 5008.549682
+      Withdrawn USD₮0: 0
+      Withdrawn thBILL: 0
+      Fees USD₮0: 0
+      Fees thBILL: 0
+
+📊 SNAPSHOTS SUMMARY:
+   Total Snapshots: 200
+   Unique Positions: 94
+   Unique Owners: 61
+   Most Active Position: 3326 (30 snapshots)
+
+✅ Data fetch complete!
+
