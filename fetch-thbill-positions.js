@@ -1,13 +1,13 @@
 /**
- * Pool Position Snapshots Fetcher
- * =================================
+ * thBILL Pool Position Snapshots Fetcher
+ * =======================================
  * 
- * This script fetches and displays current position snapshots for a specific pool
+ * This script fetches and displays current position snapshots for the thBILL/USD₮0 pool
  * from the Upheaval Finance DEX subgraph.
  * 
  * WHAT IT DOES:
  * -------------
- * 1. Fetches all current positions for the specified pool
+ * 1. Fetches all current positions for the thBILL pool
  * 2. Gets position snapshots from the last 7 days
  * 3. Shows detailed position data including liquidity, deposits, withdrawals, and fees
  * 4. Groups and displays data by position and user
@@ -16,6 +16,8 @@
  * TARGET POOL:
  * ------------
  * - Pool ID: 0xc06e0fea115e54c54125dfe2f0509d5be55e4005
+ * - Tokens: thBILL/USD₮0
+ * - Fee Tier: 0.01% (100)
  * 
  * OUTPUT FORMAT:
  * --------------
@@ -27,9 +29,8 @@
  * 
  * USAGE:
  * ------
- * Run directly: `node fetch-pool-positions.js`
+ * Run directly: `node fetch-thbill-positions.js`
  * 
- * @author Generated with Claude Code
  * @date 2025-09-11
  */
 
