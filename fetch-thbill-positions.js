@@ -1,19 +1,19 @@
 /**
- * thBILL Pool Position Snapshots Fetcher
+ * Pool Position Snapshots Fetcher
  * =======================================
  * 
- * This script fetches and displays current position snapshots for the thBILL/USD₮0 pool
+ * This script fetches and displays current position snapshots for any pool
  * from the Upheaval Finance DEX subgraph.
  * 
  * WHAT IT DOES:
  * -------------
- * 1. Fetches all current positions for the thBILL pool
+ * 1. Fetches all current positions for the pool
  * 2. Gets position snapshots from the last 7 days
  * 3. Shows detailed position data including liquidity, deposits, withdrawals, and fees
  * 4. Groups and displays data by position and user
  * 5. Provides summary statistics
  * 
- * TARGET POOL:
+ * TARGET POOL: (You can replace any Pool ID)
  * ------------
  * - Pool ID: 0xc06e0fea115e54c54125dfe2f0509d5be55e4005
  * - Tokens: thBILL/USD₮0
@@ -34,7 +34,7 @@
  * @date 2025-09-11
  */
 
-const POOL_ID = '0xc06e0fea115e54c54125dfe2f0509d5be55e4005';
+const POOL_ID = '0xc06e0fea115e54c54125dfe2f0509d5be55e4005'; // replace with your pool id here
 const SUBGRAPH_URL = 'https://api.upheaval.fi/subgraphs/name/upheaval/exchange-v3';
 
 // Get timestamp for 7 days ago
