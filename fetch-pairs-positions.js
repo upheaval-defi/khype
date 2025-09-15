@@ -1,5 +1,5 @@
 /**
- * thBILL Pool Position Snapshots Fetcher
+ * Pool Position Snapshots Fetcher
  * =======================================
  * 
  * This script fetches and displays current position snapshots for any pool
@@ -7,7 +7,7 @@
  * 
  * WHAT IT DOES:
  * -------------
- * 1. Fetches all current positions for the thBILL pool
+ * 1. Fetches all current positions for a pool
  * 2. Gets position snapshots from the last 7 days
  * 3. Shows detailed position data including liquidity, deposits, withdrawals, and fees
  * 4. Groups and displays data by position and user
