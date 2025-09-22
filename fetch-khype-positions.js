@@ -105,7 +105,7 @@
  */
 
 const KHYPE_TOKEN_ID = '0xfd739d4e423301ce9385c1fb8850539d657c296d';
-const SUBGRAPH_URL = 'https://api.upheaval.fi/subgraphs/name/upheaval/exchange-v3';
+const SUBGRAPH_URL = 'https://api.upheaval.fi/subgraphs/name/upheaval/exchange-v3-fixed'';
 
 // Filter for specific users with high activity
 const FILTER_USERS = [

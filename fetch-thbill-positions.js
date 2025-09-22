@@ -35,7 +35,7 @@
  */
 
 const POOL_ID = '0xc06e0fea115e54c54125dfe2f0509d5be55e4005'; // replace with your pool id here
-const SUBGRAPH_URL = 'https://api.upheaval.fi/subgraphs/name/upheaval/exchange-v3';
+const SUBGRAPH_URL = 'https://api.upheaval.fi/subgraphs/name/upheaval/exchange-v3-fixed'';
 
 // Get timestamp for 7 days ago
 function getSevenDaysAgo() {
